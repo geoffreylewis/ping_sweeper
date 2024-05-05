@@ -10,6 +10,10 @@ Only using Bash, this script will ping all IP addresses within a range that you 
 
 ## Version History 
 
+**Version 0.2**  
+*5/5/2024*  
+* Added more clarifying comments to the code.
+
 **Version 0.1**  
 *5/3/2024*  
 * This script is functional already, but I don't want to call it done yet.
