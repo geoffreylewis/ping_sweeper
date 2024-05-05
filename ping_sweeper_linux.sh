@@ -1,5 +1,11 @@
 #!/bin/bash
 
+################
+# Ping Sweeper #
+################
+
+# Note: You can run this with syntax "./ping_sweeper_linux.sh <the first 3 octets of the IP address range>".
+
 # If you forget to put in the first 3 octets of the IP address, the script will remind you of the missing syntax.
 if [$1 == ""]
 then
