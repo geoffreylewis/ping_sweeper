@@ -10,6 +10,12 @@ Only using Bash, this script will ping all IP addresses within a range that you 
 
 ## Version History 
 
+**Version 1.0**  
+*5/8/2024*  
+* Script is functional (but still a little messy).
+* Added even more clarifying comments to the code (such as that you'll want to redirect the output to a file in order to see a cleaner display of results).
+* Added a banner for when the ping sweep starts.
+
 **Version 0.2**  
 *5/5/2024*  
 * Added more clarifying comments to the code.
