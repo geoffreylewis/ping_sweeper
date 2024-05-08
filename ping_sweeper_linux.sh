@@ -20,8 +20,8 @@ then
 else
     # Starting Banner
     echo "================="
-	echo "Starting sweep..."
-	echo "================="
+    echo "Starting sweep..."
+    echo "================="
     echo ""
 
     # Pinging every IP, looking for responses, and displaying those.
